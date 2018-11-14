@@ -1,0 +1,1829 @@
+{
+  "title": "曼哈顿天际线",
+  "comment": "19,314",
+  "cate": [
+    "景点与地标"
+  ]
+}{
+  "title": "中央公园",
+  "comment": "120,937",
+  "cate": [
+    "景点与地标",
+    "公园",
+    "景观步行区"
+  ]
+}{
+  "title": "9/11纪念馆",
+  "comment": "83,965",
+  "cate": [
+    "特色博物馆",
+    "景点与地标",
+    "纪念碑与雕像",
+    "古迹"
+  ]
+}{
+  "title": "大都会艺术博物馆",
+  "comment": "50,532",
+  "cate": [
+    "景点与地标",
+    "艺术博物馆"
+  ]
+}{
+  "title": "峭石之巅观景台",
+  "comment": "72,434",
+  "cate": [
+    "观景台",
+    "瞭望台"
+  ]
+}{
+  "title": "圣帕提克大教堂",
+  "comment": "12,327",
+  "cate": [
+    "教堂"
+  ]
+}{
+  "title": "布鲁克林大桥",
+  "comment": "20,000",
+  "cate": [
+    "桥梁"
+  ]
+}{
+  "title": "百老汇",
+  "comment": "27,200",
+  "cate": [
+    "景点与地标"
+  ]
+}{
+  "title": "布莱恩公园",
+  "comment": "20,925",
+  "cate": [
+    "公园"
+  ]
+}{
+  "title": "纽约公共图书馆",
+  "comment": "12,695",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "大中央车站",
+  "comment": "39,549",
+  "cate": [
+    "建筑",
+    "景点与地标"
+  ]
+}{
+  "title": "史泰登岛渡轮",
+  "comment": "20,274",
+  "cate": [
+    "轮渡"
+  ]
+}{
+  "title": "世贸一号观景台",
+  "comment": "22,085",
+  "cate": [
+    "观景台",
+    "建筑"
+  ]
+}{
+  "title": "高线公园",
+  "comment": "56,529",
+  "cate": [
+    "景观步行区",
+    "公园"
+  ]
+}{
+  "title": "帝国大厦",
+  "comment": "76,183",
+  "cate": [
+    "建筑",
+    "景点与地标",
+    "观景台"
+  ]
+}{
+  "title": "自由女神像",
+  "comment": "38,721",
+  "cate": [
+    "纪念碑与雕像",
+    "景点与地标"
+  ]
+}{
+  "title": "洛克菲勒中心",
+  "comment": "22,700",
+  "cate": [
+    "景点与地标",
+    "建筑"
+  ]
+}{
+  "title": "现代艺术博物馆",
+  "comment": "16,418",
+  "cate": [
+    "艺术博物馆"
+  ]
+}{
+  "title": "美国自然历史博物馆",
+  "comment": "22,656",
+  "cate": [
+    "自然历史博物馆"
+  ]
+}{
+  "title": "时代广场",
+  "comment": "48,645",
+  "cate": [
+    "景观步行区",
+    "周边",
+    "景点与地标"
+  ]
+}{
+  "title": "世贸大厦遗址博物馆工作室",
+  "comment": "3,335",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "World Trade Center's Liberty Park",
+  "comment": "1,368",
+  "cate": [
+    "公园"
+  ]
+}{
+  "title": "Kings County Distillery",
+  "comment": "195",
+  "cate": [
+    "酿酒厂"
+  ]
+}{
+  "title": "弗里克美术收藏馆",
+  "comment": "8,210",
+  "cate": [
+    "艺术博物馆"
+  ]
+}{
+  "title": "World Trade Center Memorial Foundation",
+  "comment": "685",
+  "cate": [
+    "古迹",
+    "古迹徒步"
+  ]
+}{
+  "title": "摩根图书馆与博物馆",
+  "comment": "1,708",
+  "cate": [
+    "特色博物馆",
+    "图书馆"
+  ]
+}{
+  "title": "归零地（9.11世贸中心遗址）",
+  "comment": "1,183",
+  "cate": [
+    "圣地与宗教景点"
+  ]
+}{
+  "title": "林肯中心爵士乐表演",
+  "comment": "818",
+  "cate": [
+    "市政中心",
+    "剧院"
+  ]
+}{
+  "title": "亚治烈街博物馆",
+  "comment": "386",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "盖西文剧院",
+  "comment": "488",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "修道院博物馆",
+  "comment": "4,721",
+  "cate": [
+    "艺术博物馆",
+    "圣地与宗教景点"
+  ]
+}{
+  "title": "One World Trade Center",
+  "comment": "543",
+  "cate": [
+    "景点与地标",
+    "建筑"
+  ]
+}{
+  "title": "Christmas Spectacular Starring the Radio City Rockettes",
+  "comment": "1,437",
+  "cate": [
+    "文化活动"
+  ]
+}{
+  "title": "无线电城音乐大厅",
+  "comment": "8,381",
+  "cate": [
+    "景点与地标",
+    "剧院"
+  ]
+}{
+  "title": "纽约市立芭蕾舞团",
+  "comment": "355",
+  "cate": [
+    "芭蕾"
+  ]
+}{
+  "title": "西村",
+  "comment": "1,465",
+  "cate": [
+    "周边"
+  ]
+}{
+  "title": "World Trade Center Station (PATH)",
+  "comment": "517",
+  "cate": [
+    "建筑"
+  ]
+}{
+  "title": "林肯表演艺术中心",
+  "comment": "2,355",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "麦迪逊广场花园",
+  "comment": "8,271",
+  "cate": [
+    "体育场馆"
+  ]
+}{
+  "title": "鲁宾喜马拉雅艺术博物馆",
+  "comment": "348",
+  "cate": [
+    "艺术博物馆"
+  ]
+}{
+  "title": "崔恩堡公园",
+  "comment": "209",
+  "cate": [
+    "公园"
+  ]
+}{
+  "title": "伍尔沃斯大厦",
+  "comment": "887",
+  "cate": [
+    "建筑"
+  ]
+}{
+  "title": "温室花园",
+  "comment": "339",
+  "cate": [
+    "花园"
+  ]
+}{
+  "title": "曼哈顿下城",
+  "comment": "1,056",
+  "cate": [
+    "周边"
+  ]
+}{
+  "title": "移民公寓博物馆",
+  "comment": "5,970",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "格林威治村",
+  "comment": "3,595",
+  "cate": [
+    "周边"
+  ]
+}{
+  "title": "Gulliver's Gate",
+  "comment": "2,114",
+  "cate": [
+    "科学博物馆",
+    "特色博物馆"
+  ]
+}{
+  "title": "商人之家博物馆",
+  "comment": "252",
+  "cate": [
+    "历史博物馆"
+  ]
+}{
+  "title": "时代广场教会",
+  "comment": "210",
+  "cate": [
+    "教堂"
+  ]
+}{
+  "title": "百老汇剧场",
+  "comment": "448",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "第五大道",
+  "comment": "8,202",
+  "cate": [
+    "景点与地标"
+  ]
+}{
+  "title": "克莱斯勒大厦",
+  "comment": "2,887",
+  "cate": [
+    "建筑"
+  ]
+}{
+  "title": "The Oculus",
+  "comment": "1,945",
+  "cate": [
+    "纪念碑与雕像",
+    "建筑"
+  ]
+}{
+  "title": "时代广场剧场",
+  "comment": "167",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "上西区",
+  "comment": "825",
+  "cate": [
+    "周边",
+    "景点与地标"
+  ]
+}{
+  "title": "无畏海空宇宙博物馆",
+  "comment": "8,469",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "罗斯福岛棕榈泉",
+  "comment": "3,383",
+  "cate": [
+    "有轨电车"
+  ]
+}{
+  "title": "哈德逊河公园",
+  "comment": "460",
+  "cate": [
+    "公园"
+  ]
+}{
+  "title": "艾利斯岛移民博物馆",
+  "comment": "2,807",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "埃利斯岛",
+  "comment": "6,717",
+  "cate": [
+    "历史博物馆",
+    "景点与地标",
+    "古迹"
+  ]
+}{
+  "title": "华盛顿广场公园",
+  "comment": "3,186",
+  "cate": [
+    "公园",
+    "景点与地标",
+    "周边"
+  ]
+}{
+  "title": "灯塔剧院",
+  "comment": "330",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "圣派翠克大教堂",
+  "comment": "235",
+  "cate": [
+    "圣地与宗教景点",
+    "建筑"
+  ]
+}{
+  "title": "Rockefeller Center Christmas Tree",
+  "comment": "165",
+  "cate": [
+    "文化活动"
+  ]
+}{
+  "title": "圣保罗教堂",
+  "comment": "3,323",
+  "cate": [
+    "教堂",
+    "圣地与宗教景点"
+  ]
+}{
+  "title": "Studio 54",
+  "comment": "222",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "犹太遗产博物馆",
+  "comment": "378",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "河滨公园",
+  "comment": "437",
+  "cate": [
+    "公园"
+  ]
+}{
+  "title": "斯通街遗迹区",
+  "comment": "175",
+  "cate": [
+    "景点与地标"
+  ]
+}{
+  "title": "总督岛国家纪念碑",
+  "comment": "740",
+  "cate": [
+    "景点与地标",
+    "古迹"
+  ]
+}{
+  "title": "阿波罗剧院",
+  "comment": "546",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "切尔西市场",
+  "comment": "8,498",
+  "cate": [
+    "跳蚤市场与街头市集"
+  ]
+}{
+  "title": "Stephen Sondheim Theatre",
+  "comment": "130",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "Minskoff剧院",
+  "comment": "205",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "圣·托马斯教堂",
+  "comment": "420",
+  "cate": [
+    "圣地与宗教景点",
+    "教堂"
+  ]
+}{
+  "title": "Sea Glass Carousel",
+  "comment": "244",
+  "cate": [
+    "景点与地标"
+  ]
+}{
+  "title": "梅西感恩节大游行",
+  "comment": "116",
+  "cate": [
+    "文化活动"
+  ]
+}{
+  "title": "圣约翰教堂",
+  "comment": "1,436",
+  "cate": [
+    "圣地与宗教景点"
+  ]
+}{
+  "title": "SoHo区",
+  "comment": "3,710",
+  "cate": [
+    "周边"
+  ]
+}{
+  "title": "纽约港",
+  "comment": "212",
+  "cate": [
+    "水域"
+  ]
+}{
+  "title": "大中央市场",
+  "comment": "664",
+  "cate": [
+    "景点与地标",
+    "跳蚤市场与街头市集"
+  ]
+}{
+  "title": "熨斗大厦",
+  "comment": "3,163",
+  "cate": [
+    "建筑"
+  ]
+}{
+  "title": "布鲁克菲尔德广场展厅(原世界金融中心)",
+  "comment": "454",
+  "cate": [
+    "建筑"
+  ]
+}{
+  "title": "毕士达喷泉",
+  "comment": "653",
+  "cate": [
+    "喷泉"
+  ]
+}{
+  "title": "新阿姆斯特丹剧院",
+  "comment": "574",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "哥伦比亚大学",
+  "comment": "529",
+  "cate": [
+    "教育机构"
+  ]
+}{
+  "title": "国王剧院",
+  "comment": "676",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "爱尔兰饥荒纪念碑",
+  "comment": "203",
+  "cate": [
+    "古迹"
+  ]
+}{
+  "title": "时装技术学院",
+  "comment": "202",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "纽约新画廊",
+  "comment": "1,449",
+  "cate": [
+    "艺术博物馆"
+  ]
+}{
+  "title": "联合广场跳蚤市场",
+  "comment": "316",
+  "cate": [
+    "跳蚤市场与街头市集"
+  ]
+}{
+  "title": "圣三一教堂",
+  "comment": "1,378",
+  "cate": [
+    "圣地与宗教景点",
+    "建筑"
+  ]
+}{
+  "title": "Downton Abbey: The Exhibition",
+  "comment": "317",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "罗斯福岛",
+  "comment": "730",
+  "cate": [
+    "岛屿"
+  ]
+}{
+  "title": "西奥多·罗斯福诞生地",
+  "comment": "191",
+  "cate": [
+    "古迹",
+    "历史博物馆"
+  ]
+}{
+  "title": "Cadillac Winter Garden剧院",
+  "comment": "165",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "曼哈顿桥",
+  "comment": "1,111",
+  "cate": [
+    "桥梁"
+  ]
+}{
+  "title": "上东部",
+  "comment": "233",
+  "cate": [
+    "周边"
+  ]
+}{
+  "title": "切尔西",
+  "comment": "481",
+  "cate": [
+    "周边"
+  ]
+}{
+  "title": "外百老汇新世纪舞台",
+  "comment": "284",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "纽约消防博物馆",
+  "comment": "225",
+  "cate": [
+    "儿童博物馆",
+    "特色博物馆",
+    "桥梁"
+  ]
+}{
+  "title": "第42街",
+  "comment": "379",
+  "cate": [
+    "古迹徒步",
+    "景点与地标"
+  ]
+}{
+  "title": "肉品市场区",
+  "comment": "641",
+  "cate": [
+    "周边"
+  ]
+}{
+  "title": "纽约历史协会",
+  "comment": "726",
+  "cate": [
+    "艺术博物馆",
+    "历史博物馆",
+    "儿童博物馆",
+    "特色博物馆"
+  ]
+}{
+  "title": "麦迪逊广场",
+  "comment": "608",
+  "cate": [
+    "景点与地标"
+  ]
+}{
+  "title": "尼尔·西蒙剧院",
+  "comment": "229",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "朗艾克剧院",
+  "comment": "143",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "海登天文馆",
+  "comment": "386",
+  "cate": [
+    "观景台与天文台"
+  ]
+}{
+  "title": "河畔教堂",
+  "comment": "142",
+  "cate": [
+    "圣地与宗教景点",
+    "观景台"
+  ]
+}{
+  "title": "NFL Experience Times Square",
+  "comment": "238",
+  "cate": [
+    "体育场馆"
+  ]
+}{
+  "title": "非裔公墓国家纪念碑",
+  "comment": "131",
+  "cate": [
+    "古迹",
+    "纪念碑与雕像"
+  ]
+}{
+  "title": "法兰西斯客栈博物馆",
+  "comment": "170",
+  "cate": [
+    "历史博物馆",
+    "建筑",
+    "古迹"
+  ]
+}{
+  "title": "古柏惠特博物馆",
+  "comment": "524",
+  "cate": [
+    "艺术博物馆",
+    "古迹"
+  ]
+}{
+  "title": "Westfield World Trade Center",
+  "comment": "221",
+  "cate": [
+    "购物中心"
+  ]
+}{
+  "title": "萨克斯第五大道",
+  "comment": "561",
+  "cate": [
+    "百货商场"
+  ]
+}{
+  "title": "犹太人博物馆",
+  "comment": "400",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "纽约市立博物馆",
+  "comment": "904",
+  "cate": [
+    "历史博物馆",
+    "特色博物馆"
+  ]
+}{
+  "title": "威廉斯堡大桥",
+  "comment": "162",
+  "cate": [
+    "桥梁"
+  ]
+}{
+  "title": "Spyscape",
+  "comment": "133",
+  "cate": [
+    "军事博物馆",
+    "特色博物馆",
+    "历史博物馆"
+  ]
+}{
+  "title": "爱丽丝梦游仙境雕塑",
+  "comment": "513",
+  "cate": [
+    "纪念碑与雕像"
+  ]
+}{
+  "title": "舒伯特剧院",
+  "comment": "283",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "帕克街",
+  "comment": "401",
+  "cate": [
+    "周边",
+    "古迹徒步"
+  ]
+}{
+  "title": "联合国总部",
+  "comment": "1,692",
+  "cate": [
+    "古迹",
+    "景点与地标",
+    "政府建筑"
+  ]
+}{
+  "title": "联合广场",
+  "comment": "1,331",
+  "cate": [
+    "周边",
+    "景点与地标",
+    "公园"
+  ]
+}{
+  "title": "皇宫戏院",
+  "comment": "182",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "The Met Breuer",
+  "comment": "260",
+  "cate": [
+    "艺术博物馆"
+  ]
+}{
+  "title": "圣詹姆斯剧院",
+  "comment": "190",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "Bethel Gospel Assembly",
+  "comment": "293",
+  "cate": [
+    "教堂"
+  ]
+}{
+  "title": "Lyric Theatre",
+  "comment": "146",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "Franklin D. Roosevelt Four Freedoms Park",
+  "comment": "143",
+  "cate": [
+    "公园"
+  ]
+}{
+  "title": "巴特里公园",
+  "comment": "2,377",
+  "cate": [
+    "公园"
+  ]
+}{
+  "title": "格兰特将军国家纪念堂",
+  "comment": "275",
+  "cate": [
+    "古迹",
+    "纪念碑与雕像",
+    "墓地",
+    "景点与地标"
+  ]
+}{
+  "title": "哈密尔顿农庄国家纪念碑",
+  "comment": "162",
+  "cate": [
+    "古迹",
+    "国家公园",
+    "景点与地标"
+  ]
+}{
+  "title": "理查·罗杰斯剧院",
+  "comment": "234",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "翠贝卡",
+  "comment": "274",
+  "cate": [
+    "周边"
+  ]
+}{
+  "title": "Jacqueline Kennedy Onassis Reservoir",
+  "comment": "125",
+  "cate": [
+    "水域"
+  ]
+}{
+  "title": "纽约市政厅公园旅客信息中心",
+  "comment": "171",
+  "cate": [
+    "政府建筑",
+    "游客中心"
+  ]
+}{
+  "title": "哈莱姆区",
+  "comment": "1,093",
+  "cate": [
+    "周边"
+  ]
+}{
+  "title": "美国原住民博物馆",
+  "comment": "688",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "炮台公园市洛克菲勒公园",
+  "comment": "112",
+  "cate": [
+    "公园"
+  ]
+}{
+  "title": "沃尔曼滑冰场",
+  "comment": "292",
+  "cate": [
+    "综合体育馆"
+  ]
+}{
+  "title": "皇后区大桥",
+  "comment": "248",
+  "cate": [
+    "桥梁"
+  ]
+}{
+  "title": "约翰·列侬纪念馆",
+  "comment": "1,646",
+  "cate": [
+    "公园",
+    "纪念碑与雕像"
+  ]
+}{
+  "title": "乔伊斯剧院",
+  "comment": "84",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "帝国剧院",
+  "comment": "346",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "Friends Building",
+  "comment": "305",
+  "cate": [
+    "景点与地标"
+  ]
+}{
+  "title": "大地球仪",
+  "comment": "115",
+  "cate": [
+    "景点与地标"
+  ]
+}{
+  "title": "艾尔赫施菲德剧院",
+  "comment": "166",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "约瑟夫帕普公共剧院",
+  "comment": "84",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "时代华纳中心",
+  "comment": "279",
+  "cate": [
+    "景点与地标",
+    "建筑"
+  ]
+}{
+  "title": "朗特方谭剧院",
+  "comment": "152",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "21世纪购物中心",
+  "comment": "3,384",
+  "cate": [
+    "百货商场"
+  ]
+}{
+  "title": "梅西百货先驱广场店",
+  "comment": "4,286",
+  "cate": [
+    "百货商场"
+  ]
+}{
+  "title": "联邦厅",
+  "comment": "390",
+  "cate": [
+    "古迹",
+    "建筑"
+  ]
+}{
+  "title": "眺望台城堡",
+  "comment": "478",
+  "cate": [
+    "城堡"
+  ]
+}{
+  "title": "西班牙美术馆",
+  "comment": "93",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "哥伦布环购物区",
+  "comment": "329",
+  "cate": [
+    "购物中心"
+  ]
+}{
+  "title": "侯爵剧场",
+  "comment": "146",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "Lord & Taylor百货商场",
+  "comment": "217",
+  "cate": [
+    "百货商场"
+  ]
+}{
+  "title": "艺术和设计博物馆",
+  "comment": "400",
+  "cate": [
+    "特色博物馆",
+    "艺术博物馆"
+  ]
+}{
+  "title": "圣巴索罗谬教堂",
+  "comment": "87",
+  "cate": [
+    "圣地与宗教景点"
+  ]
+}{
+  "title": "下东部",
+  "comment": "140",
+  "cate": [
+    "周边"
+  ]
+}{
+  "title": "沃尔特•克尔剧院",
+  "comment": "174",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "莎士比亚公园",
+  "comment": "93",
+  "cate": [
+    "花园"
+  ]
+}{
+  "title": "Gerald Schoenfeld Theatre",
+  "comment": "149",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "Columbus Circle",
+  "comment": "342",
+  "cate": [
+    "喷泉",
+    "纪念碑与雕像",
+    "周边"
+  ]
+}{
+  "title": "美洲华人博物馆",
+  "comment": "108",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "杜菲广场",
+  "comment": "99",
+  "cate": [
+    "周边",
+    "古迹徒步"
+  ]
+}{
+  "title": "先驱广场",
+  "comment": "236",
+  "cate": [
+    "景点与地标"
+  ]
+}{
+  "title": "布鲁明戴尔百货店",
+  "comment": "817",
+  "cate": [
+    "百货商场"
+  ]
+}{
+  "title": "切尔西码头",
+  "comment": "213",
+  "cate": [
+    "游客中心",
+    "综合体育馆",
+    "景点与地标"
+  ]
+}{
+  "title": "韩国城",
+  "comment": "162",
+  "cate": [
+    "周边"
+  ]
+}{
+  "title": "贾维茨会议中心",
+  "comment": "303",
+  "cate": [
+    "会议中心"
+  ]
+}{
+  "title": "纽约联邦储备银行",
+  "comment": "262",
+  "cate": [
+    "历史博物馆",
+    "建筑"
+  ]
+}{
+  "title": "中城剧院",
+  "comment": "84",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "Love Sculpture",
+  "comment": "633",
+  "cate": [
+    "景点与地标"
+  ]
+}{
+  "title": "乔治·华盛顿桥",
+  "comment": "363",
+  "cate": [
+    "桥梁"
+  ]
+}{
+  "title": "人驞奥妙展",
+  "comment": "145",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "埃塞尔巴利摩剧院",
+  "comment": "159",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "Godiva Chocolatier",
+  "comment": "71",
+  "cate": [
+    "其他餐饮"
+  ]
+}{
+  "title": "中央公园文学路",
+  "comment": "69",
+  "cate": [
+    "古迹徒步"
+  ]
+}{
+  "title": "博兹剧院",
+  "comment": "116",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "阿勒贡金酒店",
+  "comment": "190",
+  "cate": [
+    "古迹",
+    "建筑"
+  ]
+}{
+  "title": "南街海港",
+  "comment": "811",
+  "cate": [
+    "古迹徒步",
+    "购物中心",
+    "历史博物馆"
+  ]
+}{
+  "title": "Kinokuniya Book Stores of America",
+  "comment": "82",
+  "cate": [
+    "景点与地标"
+  ]
+}{
+  "title": "Washington Square Arch",
+  "comment": "94",
+  "cate": [
+    "古迹",
+    "纪念碑与雕像",
+    "景点与地标"
+  ]
+}{
+  "title": "FDNY Memorial Wall",
+  "comment": "64",
+  "cate": [
+    "景点与地标",
+    "纪念碑与雕像"
+  ]
+}{
+  "title": "New York City Hall",
+  "comment": "101",
+  "cate": [
+    "古迹",
+    "政府建筑",
+    "建筑"
+  ]
+}{
+  "title": "百老汇贝拉斯科剧院",
+  "comment": "133",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "East Village",
+  "comment": "101",
+  "cate": [
+    "周边"
+  ]
+}{
+  "title": "卡尔舒茨公园",
+  "comment": "76",
+  "cate": [
+    "公园"
+  ]
+}{
+  "title": "NYC Ferry",
+  "comment": "71",
+  "cate": [
+    "轮渡"
+  ]
+}{
+  "title": "华尔街",
+  "comment": "2,842",
+  "cate": [
+    "景点与地标",
+    "周边"
+  ]
+}{
+  "title": "Greater Refuge Temple",
+  "comment": "51",
+  "cate": [
+    "教堂"
+  ]
+}{
+  "title": "木球草地",
+  "comment": "203",
+  "cate": [
+    "公园"
+  ]
+}{
+  "title": "纽约表演艺术公共图书馆",
+  "comment": "65",
+  "cate": [
+    "图书馆",
+    "教育机构"
+  ]
+}{
+  "title": "兰心大戏院",
+  "comment": "175",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "国宾剧院",
+  "comment": "272",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "纽约杜莎夫人蜡像馆",
+  "comment": "7,427",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "美国芭蕾舞剧团",
+  "comment": "91",
+  "cate": [
+    "芭蕾"
+  ]
+}{
+  "title": "Alleva Dairy",
+  "comment": "81",
+  "cate": [
+    "景点与地标"
+  ]
+}{
+  "title": "所罗门·R·古根海姆博物馆",
+  "comment": "4,971",
+  "cate": [
+    "艺术博物馆"
+  ]
+}{
+  "title": "音乐盒剧院",
+  "comment": "88",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "小意大利",
+  "comment": "3,321",
+  "cate": [
+    "周边"
+  ]
+}{
+  "title": "City Hall Park",
+  "comment": "89",
+  "cate": [
+    "公园"
+  ]
+}{
+  "title": "中央公园动物园",
+  "comment": "2,912",
+  "cate": [
+    "动物园"
+  ]
+}{
+  "title": "美国航空剧院",
+  "comment": "113",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "倪德伦剧院",
+  "comment": "95",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "The Dakota",
+  "comment": "386",
+  "cate": [
+    "建筑",
+    "古迹"
+  ]
+}{
+  "title": "数学博物馆",
+  "comment": "328",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "Museum of the American Gangster",
+  "comment": "116",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "布鲁克斯亚金森剧院",
+  "comment": "72",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "Hans Christian Andersen Statue",
+  "comment": "65",
+  "cate": [
+    "景点与地标",
+    "纪念碑与雕像"
+  ]
+}{
+  "title": "博物馆路",
+  "comment": "54",
+  "cate": [
+    "古迹徒步"
+  ]
+}{
+  "title": "Balto Statue",
+  "comment": "59",
+  "cate": [
+    "纪念碑与雕像"
+  ]
+}{
+  "title": "PATH",
+  "comment": "97",
+  "cate": [
+    "公共交通系统"
+  ]
+}{
+  "title": "纽约证券交易所",
+  "comment": "510",
+  "cate": [
+    "建筑",
+    "景点与地标"
+  ]
+}{
+  "title": "Seventh Avenue",
+  "comment": "72",
+  "cate": [
+    "景点与地标",
+    "景观步行区",
+    "建筑"
+  ]
+}{
+  "title": "曼哈顿儿童博物馆",
+  "comment": "253",
+  "cate": [
+    "儿童博物馆"
+  ]
+}{
+  "title": "GhostBusters Firestation",
+  "comment": "308",
+  "cate": [
+    "景点与地标"
+  ]
+}{
+  "title": "佩雷公园",
+  "comment": "60",
+  "cate": [
+    "公园"
+  ]
+}{
+  "title": "Morris-Jumel大厦",
+  "comment": "89",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "Modell's商场",
+  "comment": "71",
+  "cate": [
+    "百货商场"
+  ]
+}{
+  "title": "Hudson River Greenway",
+  "comment": "52",
+  "cate": [
+    "自行车道"
+  ]
+}{
+  "title": "通用电气大楼",
+  "comment": "75",
+  "cate": [
+    "建筑"
+  ]
+}{
+  "title": "Houdini Museum of New York at Fantasma Magic",
+  "comment": "75",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "爱德·苏利文剧院",
+  "comment": "90",
+  "cate": [
+    "剧院",
+    "景点与地标"
+  ]
+}{
+  "title": "纽约大学",
+  "comment": "94",
+  "cate": [
+    "教育机构"
+  ]
+}{
+  "title": "格雷斯教堂",
+  "comment": "65",
+  "cate": [
+    "圣地与宗教景点"
+  ]
+}{
+  "title": "以马内利会堂",
+  "comment": "46",
+  "cate": [
+    "圣地与宗教景点"
+  ]
+}{
+  "title": "华盛顿广场十九号",
+  "comment": "53",
+  "cate": [
+    "教育机构",
+    "古迹"
+  ]
+}{
+  "title": "Greenacre Pocket Park",
+  "comment": "35",
+  "cate": [
+    "公园"
+  ]
+}{
+  "title": "美国金融博物馆",
+  "comment": "144",
+  "cate": [
+    "历史博物馆",
+    "特色博物馆"
+  ]
+}{
+  "title": "Hope Sculpture",
+  "comment": "96",
+  "cate": [
+    "景点与地标"
+  ]
+}{
+  "title": "古埃及方尖碑",
+  "comment": "93",
+  "cate": [
+    "纪念碑与雕像"
+  ]
+}{
+  "title": "Bethesda Terrace",
+  "comment": "43",
+  "cate": [
+    "建筑"
+  ]
+}{
+  "title": "Ripley's Believe It or Not! Times Square",
+  "comment": "1,183",
+  "cate": [
+    "特色博物馆"
+  ]
+}{
+  "title": "Westside Theatre",
+  "comment": "65",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "Artists & Fleas at Chelsea Market",
+  "comment": "52",
+  "cate": [
+    "跳蚤市场与街头市集"
+  ]
+}{
+  "title": "Fulton Center",
+  "comment": "65",
+  "cate": [
+    "景点与地标",
+    "建筑"
+  ]
+}{
+  "title": "The Pershing Square Signature Center",
+  "comment": "50",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "美国海关局",
+  "comment": "57",
+  "cate": [
+    "建筑",
+    "景点与地标"
+  ]
+}{
+  "title": "华尔街公牛",
+  "comment": "1,805",
+  "cate": [
+    "纪念碑与雕像"
+  ]
+}{
+  "title": "New York City Supreme Court",
+  "comment": "74",
+  "cate": [
+    "景点与地标"
+  ]
+}{
+  "title": "Greeley Square Park",
+  "comment": "92",
+  "cate": [
+    "公园"
+  ]
+}{
+  "title": "Trinity Church Cemetery & Mausoleum",
+  "comment": "48",
+  "cate": [
+    "墓地"
+  ]
+}{
+  "title": "Hudson Theatre",
+  "comment": "50",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "莫尔公园",
+  "comment": "46",
+  "cate": [
+    "公园",
+    "古迹徒步"
+  ]
+}{
+  "title": "Wollman Rink",
+  "comment": "84",
+  "cate": [
+    "综合体育馆"
+  ]
+}{
+  "title": "Governors Island",
+  "comment": "47",
+  "cate": [
+    "岛屿"
+  ]
+}{
+  "title": "Bernard B. Jacobs Theatre",
+  "comment": "60",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "H&M专卖店",
+  "comment": "232",
+  "cate": [
+    "百货商场"
+  ]
+}{
+  "title": "市政大楼",
+  "comment": "82",
+  "cate": [
+    "政府建筑"
+  ]
+}{
+  "title": "格拉梅西公园",
+  "comment": "86",
+  "cate": [
+    "公园",
+    "州立公园"
+  ]
+}{
+  "title": "59E59 Theaters",
+  "comment": "41",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "The High Line Park",
+  "comment": "33",
+  "cate": [
+    "景点与地标",
+    "公园"
+  ]
+}{
+  "title": "川普大楼",
+  "comment": "929",
+  "cate": [
+    "观景台",
+    "景点与地标"
+  ]
+}{
+  "title": "Cort Theatre",
+  "comment": "117",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "Fearless Girl",
+  "comment": "34",
+  "cate": [
+    "景点与地标",
+    "纪念碑与雕像"
+  ]
+}{
+  "title": "爱尔兰剧院",
+  "comment": "50",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "邮政总局",
+  "comment": "93",
+  "cate": [
+    "古迹"
+  ]
+}{
+  "title": "尤金·奥尼尔剧场",
+  "comment": "187",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "弗农山酒店博物馆&公园",
+  "comment": "56",
+  "cate": [
+    "历史博物馆",
+    "古迹"
+  ]
+}{
+  "title": "朱莉亚音乐学院",
+  "comment": "51",
+  "cate": [
+    "大学与学校"
+  ]
+}{
+  "title": "黄金剧院",
+  "comment": "60",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "Obscura Antiques & Oddities",
+  "comment": "77",
+  "cate": [
+    "古董店"
+  ]
+}{
+  "title": "Holographic Studios",
+  "comment": "30",
+  "cate": [
+    "景点与地标"
+  ]
+}{
+  "title": "雪丽兰剧场",
+  "comment": "38",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "Essex Street Market",
+  "comment": "50",
+  "cate": [
+    "跳蚤市场与街头市集"
+  ]
+}{
+  "title": "大都会人寿大厦",
+  "comment": "90",
+  "cate": [
+    "建筑"
+  ]
+}{
+  "title": "小舒伯特剧院",
+  "comment": "38",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "巴尼百货公司",
+  "comment": "105",
+  "cate": [
+    "百货商场"
+  ]
+}{
+  "title": "哈莱姆画室博物馆",
+  "comment": "65",
+  "cate": [
+    "艺术博物馆"
+  ]
+}{
+  "title": "戴拉寇特剧院",
+  "comment": "56",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "Bow Bridge",
+  "comment": "29",
+  "cate": [
+    "景点与地标",
+    "桥梁"
+  ]
+}{
+  "title": "奥古斯特·威尔逊剧院",
+  "comment": "117",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "伊莉沙白大道",
+  "comment": "34",
+  "cate": [
+    "景点与地标"
+  ]
+}{
+  "title": "Arthur Ashe Stadium",
+  "comment": "28",
+  "cate": [
+    "体育场馆"
+  ]
+}{
+  "title": "Barrow Street Theatre",
+  "comment": "36",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "晨曦公园",
+  "comment": "46",
+  "cate": [
+    "公园"
+  ]
+}{
+  "title": "Conservatory Water",
+  "comment": "49",
+  "cate": [
+    "水域"
+  ]
+}{
+  "title": "百思买剧院",
+  "comment": "73",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "新胜利剧院",
+  "comment": "39",
+  "cate": [
+    "剧院"
+  ]
+}{
+  "title": "ABC家居商店",
+  "comment": "94",
+  "cate": [
+    "百货商场"
+  ]
+}{
+  "title": "切尔莎跳蚤市场",
+  "comment": "95",
+  "cate": [
+    "跳蚤市场与街头市集"
+  ]
+}{
+  "title": "Pier 17",
+  "comment": "182",
+  "cate": [
+    "码头与栈道"
+  ]
+}{
+  "title": "Grand Masonic Lodge of New York",
+  "comment": "24",
+  "cate": [
+    "古迹",
+    "建筑"
+  ]
+}{
+  "title": "特威德法院",
+  "comment": "62",
+  "cate": [
+    "政府建筑",
+    "建筑"
+  ]
+}
